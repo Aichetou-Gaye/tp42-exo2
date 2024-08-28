@@ -1,0 +1,3 @@
+DevOps est une approche qui vise à unir les équipes de développement et d'exploitation afin d'accélérer et d'améliorer la livraison de logiciels. 
+
+En automatisant les processus, en favorisant la collaboration et en adoptant une culture de la continuité, DevOps permet de réduire les délais de mise sur le marché, d'augmenter la qualité des produits et de répondre plus efficacement aux besoins des utilisateurs.
